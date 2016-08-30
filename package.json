@@ -1,0 +1,22 @@
+{
+  "name": "cevo-lookup",
+  "version": "0.0.1",
+  "description": "Searchs the CEVO Suspension List for bans by SteamID",
+  "main": "cevo.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "cevo",
+    "vac",
+    "ban"
+  ],
+  "author": "Zack Boehm",
+  "license": "MIT",
+  "dependencies": {
+    "scrape-it": "^3.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
