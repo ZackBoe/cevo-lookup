@@ -1,7 +1,7 @@
 {
   "name": "cevo-lookup",
   "version": "0.0.1",
-  "description": "Searchs the CEVO Suspension List for bans by SteamID",
+  "description": "Searchs the CEVO Suspension List for bans",
   "main": "cevo.js",
   "scripts": {
     "test": "ava"

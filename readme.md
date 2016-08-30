@@ -1,4 +1,4 @@
-## CEVO Lookup
+## CEVO Lookup [![npm](https://img.shields.io/npm/v/cevo-lookup.svg)](https://www.npmjs.com/package/cevo-lookup) [![Build Status](https://travis-ci.org/ZackBoe/cevo-lookup.svg?branch=master)](https://travis-ci.org/ZackBoe/cevo-lookup)
 
 Searches for suspensions from [CEVO's Suspension List](https://cevo.com/member/bans/) via web scraping. **Please see [Limitations](#limitations)**
 
